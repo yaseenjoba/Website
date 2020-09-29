@@ -5,7 +5,7 @@ body {
     height: 500px;
 }
 .First-section{
-    background-image: url(/photos/ph1.png);
+    background-image: url("/photos/ph1.png");
     background-position: center;
     background-repeat: no-repeat ;
     background-size: cover;
@@ -69,7 +69,7 @@ a{
     height: 100%;
 }
 .Third-section{
-    background-image: url(/photos/ph2.png);
+    background-image: url("/photos/ph2.png");
     background-position: center;
     background-repeat: no-repeat ;
     background-size: cover;
